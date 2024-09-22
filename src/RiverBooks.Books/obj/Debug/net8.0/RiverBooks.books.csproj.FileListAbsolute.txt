@@ -1,0 +1,12 @@
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\bin\Debug\net8.0\RiverBooks.books.deps.json
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\bin\Debug\net8.0\RiverBooks.books.dll
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\bin\Debug\net8.0\RiverBooks.books.pdb
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\RiverBooks.books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\RiverBooks.books.AssemblyInfoInputs.cache
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\RiverBooks.books.AssemblyInfo.cs
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\RiverBooks.books.csproj.CoreCompileInputs.cache
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\RiverBooks.books.dll
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\refint\RiverBooks.books.dll
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\RiverBooks.books.pdb
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\ref\RiverBooks.books.dll
+C:\Users\MattRT\Desktop\Projects\BACKEND\TESTS\modularMonolith_1\src\RiverBooks.books\obj\Debug\net8.0\RiverBooks.books.csproj.AssemblyReference.cache
